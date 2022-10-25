@@ -1,0 +1,18 @@
+[INFO] [launch]: All log files can be found below /home/ericngo/.ros/log/2022-10-24-21-27-04-412126-ericngo-Precision-T7610-233745
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [panda-1]: process started with pid [233765]
+[panda-1] Traceback (most recent call last):
+[panda-1]   File "/home/ericngo/Desktop/baskr/pybullet_panda/install/pybullet_panda/lib/pybullet_panda/panda", line 11, in <module>
+[panda-1]     load_entry_point('pybullet-panda==0.0.0', 'console_scripts', 'panda')()
+[panda-1]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 490, in load_entry_point
+[panda-1]     return get_distribution(dist).load_entry_point(group, name)
+[panda-1]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2854, in load_entry_point
+[panda-1]     return ep.load()
+[panda-1]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2445, in load
+[panda-1]     return self.resolve()
+[panda-1]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2451, in resolve
+[panda-1]     module = __import__(self.module_name, fromlist=['__name__'], level=0)
+[panda-1]   File "/home/ericngo/Desktop/baskr/pybullet_panda/install/pybullet_panda/lib/python3.8/site-packages/pybullet_panda/panda.py", line 1, in <module>
+[panda-1]     import pybullet as p
+[panda-1] ModuleNotFoundError: No module named 'pybullet'
+[ERROR] [panda-1]: process has died [pid 233765, exit code 1, cmd '/home/ericngo/Desktop/baskr/pybullet_panda/install/pybullet_panda/lib/pybullet_panda/panda --ros-args -r __node:=panda --params-file /tmp/launch_params_cd73x_vx'].

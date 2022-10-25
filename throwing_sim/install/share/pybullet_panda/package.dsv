@@ -1,0 +1,15 @@
+source;share/pybullet_panda/hook/cmake_prefix_path.ps1
+source;share/pybullet_panda/hook/cmake_prefix_path.dsv
+source;share/pybullet_panda/hook/cmake_prefix_path.sh
+source;share/pybullet_panda/hook/ld_library_path_lib.ps1
+source;share/pybullet_panda/hook/ld_library_path_lib.dsv
+source;share/pybullet_panda/hook/ld_library_path_lib.sh
+source;share/pybullet_panda/hook/pythonpath.ps1
+source;share/pybullet_panda/hook/pythonpath.dsv
+source;share/pybullet_panda/hook/pythonpath.sh
+source;share/pybullet_panda/hook/ament_prefix_path.ps1
+source;share/pybullet_panda/hook/ament_prefix_path.dsv
+source;share/pybullet_panda/hook/ament_prefix_path.sh
+source;../build/pybullet_panda/share/pybullet_panda/hook/pythonpath_develop.ps1
+source;../build/pybullet_panda/share/pybullet_panda/hook/pythonpath_develop.dsv
+source;../build/pybullet_panda/share/pybullet_panda/hook/pythonpath_develop.sh
