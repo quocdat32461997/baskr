@@ -3,9 +3,7 @@ Basketball Robotics
 
 
 ## Dependencies
-- PuBullet
-- ROS
-
+- PyBullet
 
 ## Contributors
 - [Dat Quoc Ngo](https://github.com/quocdat32461997)
